@@ -9,7 +9,7 @@
 ## 📸 Screenshot
 
 <pre>
-<img src="assets/screenshot/home.png" width="30%">     <img src="screenshot/detail.png" width="30%">
+<img src="assets/screenshot/home.png" width="30%">     <img src="assets/screenshot/detail.png" width="30%">
 </pre>
 
 ## Modularization Structure 🔥
